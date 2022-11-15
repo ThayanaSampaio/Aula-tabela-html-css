@@ -1,0 +1,50 @@
+html{
+    background-color: rgb(155, 251, 143);
+    font-size: 30px;
+}
+
+h1{
+    color: rgb(0, 42, 28);
+    padding: 0.5px 1px 1px 1px;
+    margin: 10px 10px 10px 10px;  
+}
+
+img, h1 {
+    display: inline-block;
+}
+
+.bloco{
+    background-color: darkcyan;
+    width: 46%;
+    border: 1px solid;  
+    padding: 32px 23px;
+    text-align: topcenter;  
+    border-radius: 15px; 
+}
+ 
+.table{
+    margin-left: 183px
+}
+
+
+.tablebordasimples{
+    border-collapse: collapse
+}
+
+.bordasimplesth{
+    border: 1px solid rgb(6, 0, 0); 
+    background-color: rgb(98, 189, 8);    
+}
+.produto{
+    border: 1px solid black; 
+    text-align: center; 
+    background-color: #9bfb8f;       
+}
+
+.preço{
+    border: 1px solid black; 
+    text-align: center; 
+    background-color: #9bfb8f;
+    font-weight: bold       
+}
+
